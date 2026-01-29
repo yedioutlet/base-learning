@@ -5,3 +5,5 @@ Base is an Ethereum Layer 2 network built on OP Stack.
 ## OP Stack
 - Used by Base as its underlying technology.
 - Helps scale Ethereum transactions.
+## Base Goals
+- Lower fees
