@@ -9,3 +9,4 @@ Base is an Ethereum Layer 2 network built on OP Stack.
 - Lower fees
 ## Transactions
 - Base transactions are cheaper than Ethereum mainnet.
+- Faster confirmation times.
