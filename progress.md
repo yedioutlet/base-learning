@@ -6,3 +6,4 @@
 - [x] Read about OP Stack
 - [ ] Explore Base dApps
 - [x] Learned basic Base terminology
+- [x] Reached 50 commits milestone
