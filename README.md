@@ -6,3 +6,4 @@ Day 2: Continued learning about Base ecosystem.
 Day 2: Read about Base being built on OP Stack.
 Day 3: Learning basic Base terminology.
 Day 3: Exploring Base ecosystem tools.
+Day 4: Reading about Base security and scalability.
