@@ -8,3 +8,4 @@ Day 3: Learning basic Base terminology.
 Day 3: Exploring Base ecosystem tools.
 Day 4: Reading about Base security and scalability.
 Day 6: Learning more about Base infrastructure.
+Day 7: Reading about Base developer tools.
