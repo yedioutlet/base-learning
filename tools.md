@@ -3,3 +3,4 @@
 Tools used in the Base ecosystem.
 - Bridges
 - Developer SDKs
+- Faucets
