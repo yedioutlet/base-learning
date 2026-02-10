@@ -6,3 +6,4 @@ Rollup: Layer 2 scaling technique.
 Gas Fees: Cost required to perform transactions.
 Mainnet: The live blockchain network.
 Testnet: Network used for testing applications.
+Node: A computer that participates in the blockchain network.
