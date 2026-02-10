@@ -1,1 +1,2 @@
 - Phishing awareness is important.
+- Wallet security basics.
