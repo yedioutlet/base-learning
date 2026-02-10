@@ -10,3 +10,4 @@ Day 4: Reading about Base security and scalability.
 Day 6: Learning more about Base infrastructure.
 Day 7: Reading about Base developer tools.
 Day 8: Learning about Base transaction lifecycle.
+Day 9: Reading about Base network architecture.
