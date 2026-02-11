@@ -5,3 +5,4 @@ Tools used in the Base ecosystem.
 - Developer SDKs
 - Faucets
 - Block explorers
+- Documentation portals
