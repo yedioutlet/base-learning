@@ -1,2 +1,3 @@
 - Phishing awareness is important.
 - Wallet security basics.
+- Importance of backups.
