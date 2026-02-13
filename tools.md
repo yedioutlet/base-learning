@@ -6,3 +6,4 @@ Tools used in the Base ecosystem.
 - Faucets
 - Block explorers
 - Documentation portals
+- Community tools
