@@ -9,3 +9,4 @@ Testnet: Network used for testing applications.
 Node: A computer that participates in the blockchain network.
 Wallet: Tool for managing crypto assets.
 Explorer: Tool to view blockchain data.
+Seed Phrase: Backup for crypto wallets.
