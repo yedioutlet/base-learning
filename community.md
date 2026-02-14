@@ -5,3 +5,4 @@ Notes about Base community growth.
 - Online forums and Discord communities.
 - Meetups and events.
 - Developer workshops.
+- Online hackathons.
