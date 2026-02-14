@@ -13,3 +13,4 @@ Day 8: Learning about Base transaction lifecycle.
 Day 9: Reading about Base network architecture.
 Day 10: Exploring Base ecosystem documentation.
 Day 11: Reviewing Base ecosystem resources.
+Day 12: Summarizing Base learning journey.
