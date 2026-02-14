@@ -2,3 +2,4 @@
 - Wallet security basics.
 - Importance of backups.
 - Keeping private keys safe.
+- Importance of hardware wallets.
