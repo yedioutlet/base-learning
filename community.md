@@ -6,3 +6,4 @@ Notes about Base community growth.
 - Meetups and events.
 - Developer workshops.
 - Online hackathons.
+- Online learning resources.
